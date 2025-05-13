@@ -1,6 +1,13 @@
 # Agar.io Clone with React and SVG
 
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://gar-svg-react.vercel.app)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 A modern implementation of Agar.io using React and SVG for smooth graphics rendering. This project features a responsive game area, minimap, and multiplayer-ready architecture.
+
+## Live Demo
+
+Play the game at: [https://gar-svg-react.vercel.app](https://gar-svg-react.vercel.app)
 
 ## Features
 
@@ -37,8 +44,8 @@ A modern implementation of Agar.io using React and SVG for smooth graphics rende
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
-cd agar-svg-react
+git clone https://github.com/raf1231231/gar-svg-react.git
+cd gar-svg-react
 ```
 
 2. Install dependencies:
@@ -63,6 +70,10 @@ The project is built with:
 - SVG for graphics
 - Modern CSS features
 
+## Deployment
+
+This project is automatically deployed to Vercel. Any push to the main branch will trigger a new deployment.
+
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
